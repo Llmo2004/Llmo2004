@@ -1,26 +1,22 @@
+<div align="center">
 
-# 👋 Hi, I'm Lama 
+ <img src="dino-banner.jpg" width="100%" alt="dino banner" />
 
-<h3 align="center">
-  Software Engineering Graduate | AI & Machine Learning Enthusiast
-</h3>
+# 👋 Hi, I'm Lama
 
-<p align="center">
-  Passionate about Artificial Intelligence, Data, and building intelligent solutions.
-</p>
+### Software Engineering Graduate | AI & Machine Learning Enthusiast
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lama-a-9b607a3a9">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lama.a.8245@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<sub>Passionate about Artificial Intelligence, Data, and building intelligent solutions.</sub>
+
+</div>
 
 ---
 
 ## 👩🏻‍💻 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 - 🎓 Software Engineering Graduate from King Saud University.
 - 🤖 Interested in Artificial Intelligence and Machine Learning.
@@ -28,9 +24,29 @@
 - 🚀 Enjoy building practical solutions and learning new technologies.
 - 💡 Always exploring new ideas and technologies.
 
+</td>
+<td width="35%" align="center">
+
+<!-- صورة النجمة -->
+<img src="Star-pixle.jpg" width="200" alt="star" />
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🛠️ Tech Stack
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/Llmo2004"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+  <a href="https://www.linkedin.com/in/lama-a-9b607a3a9"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+  <a href="mailto:lama.a.8245@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,firebase,angular,spring,postgres,mysql,git,github,figma,vscode&theme=dark" />
@@ -44,37 +60,36 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📦 Projects
 
-### 🟣 Haseela
-**Gamified Financial Literacy App**
-
-A mobile application designed to teach children aged 8–14 financial literacy through interactive and gamified learning experiences.
-
-### 🟢 Watad
-**AI-Powered Revision System**
-
-An intelligent educational system designed to support students in their revision journey using AI-powered learning solutions.
+<table>
+<tr>
+<td>
+  <h3><a href="WATAD_LIVE_LINK">Watad ↗</a></h3>
+  <b>AI-Powered Revision System</b><br/>
+  An intelligent educational platform designed to help students improve their learning and revision experience through AI-powered solutions.<br/><br/>
+  <b>Tech:</b> <code>Python</code> <code>PyTorch</code> <code>NLP</code> <code>FastAPI</code> <code>PostgreSQL</code><br/><br/>
+  <a href="WATAD_LIVE_LINK">▶ Live Demo</a> &nbsp;|&nbsp; <a href="WATAD_REPO_LINK">Source Code</a>
+</td>
+</tr>
+<tr>
+<td>
+  <h3><a href="HASEELA_LIVE_LINK">Haseela ↗</a></h3>
+  <b>Gamified Financial Literacy App</b><br/>
+  A gamified mobile application designed to teach children aged 8–14 financial literacy through interactive activities and engaging learning experiences.<br/><br/>
+  <b>Tech:</b> <code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Figma</code><br/><br/>
+  <a href="HASEELA_LIVE_LINK">▶ Live Demo</a> &nbsp;|&nbsp; <a href="HASEELA_REPO_LINK">Source Code</a>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Llmo2004&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llmo2004&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Llmo2004&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Llmo2004&theme=tokyo-night&hide_border=true" width="100%" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Llmo2004&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,13 +98,6 @@ An intelligent educational system designed to support students in their revision
 
 - CAPM® – Certified Associate in Project Management
 - Microsoft Azure AI Fundamentals (AI-900)
-
----
-
-## 🤝 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lama-a-9b607a3a9)
-- 📧 [Email](mailto:lama.a.8245@gmail.com)
 
 ---
 
