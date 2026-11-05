@@ -1,69 +1,98 @@
-# Hi, I'm Lama ! 👋
 
-### Software Engineering Graduate | AI & Machine Learning | Data Analytics
+# 👋 Hi, I'm Lama Alhunayhin
 
-I'm a Software Engineering graduate from **King Saud University**, passionate about Artificial Intelligence, Machine Learning, and Data-driven solutions.
+<h3 align="center">
+  Software Engineering Graduate | AI & Machine Learning Enthusiast
+</h3>
 
-I enjoy building practical applications, solving problems, and exploring how technology can create meaningful impact.
+<p align="center">
+  Passionate about Artificial Intelligence, Data, and building intelligent solutions.
+</p>
 
----
-
-### 🚀 Featured Projects
-
-**🟣 Haseela – Gamified Financial Literacy App**
-
-A gamified mobile application designed to teach children aged 8–14 financial literacy through interactive learning experiences.
-
-**🟢 Watad – AI-Powered Revision System**
-
-An AI-powered educational system designed to enhance students' learning and revision experiences through intelligent technology.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Programming Languages**
-- Python | Java | Dart | SQL
-
-**AI & Machine Learning**
-- Machine Learning | NLP | Generative AI
-- OpenAI API | Google Gemini
-
-**Frameworks & Development**
-- Flutter | Firebase | Angular | Spring Boot
-
-**Databases**
-- PostgreSQL | MySQL | Firebase Firestore
-
-**Tools & Technologies**
-- Git | GitHub | Figma | Jira | n8n
+<p align="center">
+  <a href="https://www.linkedin.com/in/lama-a-9b607a3a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lama.a.8245@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🎯 Areas of Interest
+## 👩🏻‍💻 About Me
 
-- Artificial Intelligence & Machine Learning
-- AI Engineering
-- Data Analytics & Data Engineering
-- Software Development
-- Intelligent Applications
+- 🎓 Software Engineering Graduate from King Saud University.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 📊 Passionate about Data Analytics and intelligent applications.
+- 🚀 Enjoy building practical solutions and learning new technologies.
+- 💡 Always exploring new ideas and technologies.
 
 ---
 
-### 📜 Certifications
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,firebase,angular,spring,postgres,mysql,git,github,figma,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🟣 Haseela
+**Gamified Financial Literacy App**
+
+A mobile application designed to teach children aged 8–14 financial literacy through interactive and gamified learning experiences.
+
+### 🟢 Watad
+**AI-Powered Revision System**
+
+An intelligent educational system designed to support students in their revision journey using AI-powered learning solutions.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Llmo2004&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llmo2004&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=Llmo2004&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Llmo2004&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🏆 Certifications
 
 - CAPM® – Certified Associate in Project Management
 - Microsoft Azure AI Fundamentals (AI-900)
 
 ---
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
-I'm always interested in learning, collaborating, and exploring new opportunities in technology.
-
-- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/lama-a-9b607a3a9)
-- 📧 Email: lama.a.8245@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/lama-a-9b607a3a9)
+- 📧 [Email](mailto:lama.a.8245@gmail.com)
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+<p align="center">
+  <b>✨ Always learning. Always building. Always improving. ✨</b>
+</p>
