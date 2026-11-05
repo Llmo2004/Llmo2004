@@ -2,7 +2,7 @@
 
 <img src="dino-banner.jpg" width="100%" alt="dino banner" />
 
-<img src="Star-pixle.jpg" width="150" alt="star" />
+<img src="Star-pixle.jpg" width="110" alt="star" />
 
 <img src="typing.svg" width="600" alt="Hi, I’m Lama Alhunayhin — Software Engineer, Fresh Graduate, Open to Work" />
 
