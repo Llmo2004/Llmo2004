@@ -1,14 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="dino-banner.jpg" width="900" alt="dino banner" />
+</p>
 
-<img src="dino-banner.jpg" width="100%" alt="dino banner" />
+<p align="center">
+  <img src="Star-pixle.jpg" width="100" alt="star" />
+</p>
 
-<img src="Star-pixle.jpg" width="110" alt="star" />
+<p align="center">
+  <img src="typing.svg" width="600" alt="Hi, I’m Lama Alhunayhin — Software Engineer, Fresh Graduate, Open to Work" />
+</p>
 
-<img src="typing.svg" width="600" alt="Hi, I’m Lama Alhunayhin — Software Engineer, Fresh Graduate, Open to Work" />
-
-<img src="player-card.svg" width="480" alt="Player card: Software Engineer, Open to Work" />
-
-</div>
+<p align="center">
+  <img src="player-card.svg" width="480" alt="Player card: Software Engineer, Open to Work" />
+</p>
 
 ---
 
