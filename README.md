@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Lama Alhunayhin
+# 👋 Hi, I'm Lama 
 
 <h3 align="center">
   Software Engineering Graduate | AI & Machine Learning Enthusiast
