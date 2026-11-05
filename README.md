@@ -68,7 +68,7 @@
   <h3><a href="WATAD_LIVE_LINK">Watad ↗</a></h3>
   <b>AI-Powered Revision System</b><br/>
   An intelligent educational platform designed to help students improve their learning and revision experience through AI-powered solutions.<br/><br/>
-  <b>Tech:</b> <code>Python</code> <code>PyTorch</code> <code>NLP</code> <code>FastAPI</code> <code>PostgreSQL</code><br/><br/>
+  <b>Tech:</b> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-8E44AD?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/><br/>
   <a href="WATAD_LIVE_LINK">▶ Live Demo</a> &nbsp;|&nbsp; <a href="WATAD_REPO_LINK">Source Code</a>
 </td>
 </tr>
@@ -77,7 +77,7 @@
   <h3><a href="HASEELA_LIVE_LINK">Haseela ↗</a></h3>
   <b>Gamified Financial Literacy App</b><br/>
   A gamified mobile application designed to teach children aged 8–14 financial literacy through interactive activities and engaging learning experiences.<br/><br/>
-  <b>Tech:</b> <code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Figma</code><br/><br/>
+  <b>Tech:</b> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /><br/><br/>
   <a href="HASEELA_LIVE_LINK">▶ Live Demo</a> &nbsp;|&nbsp; <a href="HASEELA_REPO_LINK">Source Code</a>
 </td>
 </tr>
