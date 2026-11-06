@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-lama.svg" width="900" alt="Lama banner" />
+  <img src="banner.jpg" width="900" alt="Lama banner" />
 </p>
 
 <p align="center">
