@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dino-banner.jpg" width="900" alt="dino banner" />
+  <img src="banner-lama.svg" width="900" alt="Lama banner" />
 </p>
 
 <p align="center">
@@ -11,87 +11,81 @@
 </p>
 
 <p align="center">
-  <img src="player-card.svg" width="480" alt="Player card: Software Engineer, Open to Work" />
+  <img src="player-card.svg" width="480" alt="Player card" />
 </p>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-■ Software Engineering Graduate from King Saud University.
-
-■ Interested in Artificial Intelligence and Machine Learning.
-
-■ Passionate about Data Analytics and intelligent applications.
-
-■ Enjoy building practical solutions and learning new technologies.
-
-</td>
-<td width="45%" align="center">
-
-<img src="dino-laptop.png" width="300" alt="dino with laptop" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  ■ Software Engineering Graduate from King Saud University.<br/><br/>
+  ■ Interested in Artificial Intelligence and Machine Learning.<br/><br/>
+  ■ Passionate about Data Analytics and intelligent applications.<br/><br/>
+  ■ Enjoy building practical solutions and learning new technologies.
+</p>
 
 ---
 
-## 🔗 Connect
+<h2 align="center">🔗 Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lama-a-9b607a3a9"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:lama.a.8245@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
 </p>
 
 ---
 
-## 🧩 Tech Stack
+<h2 align="center">🧩 Tech Stack</h2>
 
 <p align="center">
-  <img src="tech-marquee.svg" width="600" alt="Animated tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,firebase,angular,spring,postgres,mysql,git,github,figma,vscode,docker&theme=dark&perline=7" alt="Tech icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="tech-stack.svg" width="600" alt="Tech stack" />
 </p>
 
 ---
 
-## 📦 Projects
+<h2 align="center">📦 Projects</h2>
 
-<p align="center">
-  <a href="HASEELA_LIVE_LINK"><img src="card-haseela.svg" width="480" alt="Haseela" /></a>
-  <br/>
-  <a href="HASEELA_LIVE_LINK"><img src="https://img.shields.io/badge/▶_Live_Demo-ecd98c?style=for-the-badge&labelColor=0d1117" /></a>
-  <a href="HASEELA_REPO_LINK"><img src="https://img.shields.io/badge/Source_Code-ecd98c?style=for-the-badge&logo=github&logoColor=ecd98c&labelColor=0d1117" /></a>
-</p>
-
-<p align="center">
-  <a href="WATAD_LIVE_LINK"><img src="card-watad.svg" width="480" alt="Watad" /></a>
-  <br/>
-  <a href="WATAD_LIVE_LINK"><img src="https://img.shields.io/badge/▶_Live_Demo-ecd98c?style=for-the-badge&labelColor=0d1117" /></a>
-  <a href="WATAD_REPO_LINK"><img src="https://img.shields.io/badge/Source_Code-ecd98c?style=for-the-badge&logo=github&logoColor=ecd98c&labelColor=0d1117" /></a>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="34%">
+      <img src="brain-anim.svg" width="190" alt="Watad brain" />
+    </td>
+    <td align="center" width="66%">
+      <h3><a href="WATAD_LIVE_LINK">Watad ↗</a></h3>
+      <b>AI-Powered Revision System</b><br/>
+      An intelligent educational platform designed to help students improve their learning and revision experience through AI-powered solutions.<br/><br/>
+      <img src="pills-watad.svg" width="380" alt="Python, PyTorch, NLP, FastAPI, PostgreSQL" /><br/><br/>
+      <a href="WATAD_LIVE_LINK"><img src="btn-demo.svg" width="150" alt="Live Demo" /></a>
+      <a href="WATAD_REPO_LINK"><img src="btn-source.svg" width="168" alt="Source Code" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="34%">
+      <img src="owl-anim.svg" width="190" alt="Haseela owl" />
+    </td>
+    <td align="center" width="66%">
+      <h3><a href="HASEELA_LIVE_LINK">Haseela ↗</a></h3>
+      <b>Gamified Financial Literacy App</b><br/>
+      A gamified mobile application designed to teach children aged 8–14 financial literacy through interactive activities and engaging learning experiences.<br/><br/>
+      <img src="pills-haseela.svg" width="300" alt="Flutter, Dart, Firebase, Figma" /><br/><br/>
+      <a href="HASEELA_LIVE_LINK"><img src="btn-demo.svg" width="150" alt="Live Demo" /></a>
+      <a href="HASEELA_REPO_LINK"><img src="btn-source.svg" width="168" alt="Source Code" /></a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
-## 🏅 Certifications
+<h2 align="center">🏅 Certifications</h2>
 
-■ CAPM® – Certified Associate in Project Management
-
-■ Microsoft Azure AI Fundamentals (AI-900)
+<p align="center">
+  ■ CAPM® – Certified Associate in Project Management<br/><br/>
+  ■ Microsoft Azure AI Fundamentals (AI-900)
+</p>
 
 ---
 
