@@ -54,12 +54,12 @@
       <img src="brain-anim.svg" width="190" alt="Watad brain" />
     </td>
     <td align="center" width="66%">
-      <h3><a href="WATAD_LIVE_LINK">Watad ↗</a></h3>
+      <h3><a href="WATAD_REPO_LINK">Watad ↗</a></h3>
       <b>AI-Powered Revision System</b><br/>
       An intelligent educational platform designed to help students improve their learning and revision experience through AI-powered solutions.<br/><br/>
-      <img src="pills-watad.svg" width="380" alt="Python, PyTorch, NLP, FastAPI, PostgreSQL" /><br/><br/>
-      <a href="WATAD_LIVE_LINK"><img src="btn-demo.svg" width="150" alt="Live Demo" /></a>
-      <a href="WATAD_REPO_LINK"><img src="btn-source.svg" width="168" alt="Source Code" /></a>
+      <img src="pills-watad.svg" width="397" alt="Python, PyTorch, NLP, FastAPI, PostgreSQL" /><br/><br/>
+      <a href="WATAD_FIGMA_LINK"><img src="btn-figma.svg" width="200" alt="Figma Design" /></a>
+      <a href="WATAD_REPO_LINK"><img src="btn-source-watad.svg" width="178" alt="Source Code" /></a>
     </td>
   </tr>
   <tr>
@@ -67,12 +67,12 @@
       <img src="owl-anim.svg" width="190" alt="Haseela owl" />
     </td>
     <td align="center" width="66%">
-      <h3><a href="HASEELA_LIVE_LINK">Haseela ↗</a></h3>
+      <h3><a href="https://github.com/Llmo2004/Haseela.App">Haseela ↗</a></h3>
       <b>Gamified Financial Literacy App</b><br/>
       A gamified mobile application designed to teach children aged 8–14 financial literacy through interactive activities and engaging learning experiences.<br/><br/>
-      <img src="pills-haseela.svg" width="300" alt="Flutter, Dart, Firebase, Figma" /><br/><br/>
-      <a href="HASEELA_LIVE_LINK"><img src="btn-demo.svg" width="150" alt="Live Demo" /></a>
-      <a href="HASEELA_REPO_LINK"><img src="btn-source.svg" width="168" alt="Source Code" /></a>
+      <img src="pills-haseela.svg" width="299" alt="Flutter, Dart, Firebase, Figma" /><br/><br/>
+      <a href="HASEELA_DRIVE_LINK"><img src="btn-drive.svg" width="236" alt="Poster and Screens" /></a>
+      <a href="HASEELA_REPO_LINK"><img src="btn-source-haseela.svg" width="178" alt="Source Code" /></a>
     </td>
   </tr>
 </table>
