@@ -54,12 +54,12 @@
       <img src="brain-anim.svg" width="190" alt="Watad brain" />
     </td>
     <td align="center" width="66%">
-      <h3><a href="WATAD_REPO_LINK">Watad ↗</a></h3>
+      <h3><a href="https://github.com/Llmo2004/Watad">Watad ↗</a></h3>
       <b>AI-Powered Revision System</b><br/>
       An intelligent educational platform designed to help students improve their learning and revision experience through AI-powered solutions.<br/><br/>
       <img src="pills-watad.svg" width="397" alt="Python, PyTorch, NLP, FastAPI, PostgreSQL" /><br/><br/>
       <a href="WATAD_FIGMA_LINK"><img src="btn-figma.svg" width="200" alt="Figma Design" /></a>
-      <a href="WATAD_REPO_LINK"><img src="btn-source-watad.svg" width="178" alt="Source Code" /></a>
+      <a href="https://github.com/Llmo2004/Watad"><img src="btn-source-watad.svg" width="178" alt="Source Code" /></a>
     </td>
   </tr>
   <tr>
