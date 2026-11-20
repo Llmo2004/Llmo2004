@@ -58,7 +58,7 @@
       <b>AI-Powered Revision System</b><br/>
       An intelligent educational platform designed to help students improve their learning and revision experience through AI-powered solutions.<br/><br/>
       <img src="pills-watad.svg" width="397" alt="Python, PyTorch, NLP, FastAPI, PostgreSQL" /><br/><br/>
-      <a href="WATAD_FIGMA_LINK"><img src="btn-figma.svg" width="200" alt="Figma Design" /></a>
+      <a href="https://www.figma.com/board/YAtCRecVc05eqA6NCELDR9/WATAD?node-id=0-1&p=f&t=rh8UKVcD7V1MmTs8-0"><img src="btn-figma.svg" width="200" alt="Figma Design" /></a>
       <a href="https://github.com/Llmo2004/Watad"><img src="btn-source-watad.svg" width="178" alt="Source Code" /></a>
     </td>
   </tr>
