@@ -2,6 +2,8 @@
   <img src="lama_banner.png" width="900" alt="Lama banner" />
 </p>
 
+
+
 <p align="center">
   <img src="typing.svg" width="600" alt="Hi, I’m Lama Alhunayhin — Software Engineer, Fresh Graduate, Open to Work" />
 </p>
@@ -10,21 +12,38 @@
   <img src="player-card.svg" width="480" alt="Player card" />
 </p>
 
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  ■ Software Engineering Graduate from King Saud University.<br/><br/>
+  ■ Interested in Artificial Intelligence and Machine Learning.<br/><br/>
+  ■ Passionate about Data Analytics and intelligent applications.<br/><br/>
+  ■ Enjoy building practical solutions and learning new technologies.
+</p>
+
+---
+
+<h2 align="center">🔗 Connect</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lama-a-9b607a3a9"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="mailto:lama.a.8245@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
 </p>
 
-<h2 align="center">About</h2>
+---
+
+<h2 align="center">🧩 Tech Stack</h2>
 
 <p align="center">
-  Software Engineering graduate from King Saud University,<br/>
-  interested in Artificial Intelligence, Machine Learning and Data Analytics.<br/>
-  I enjoy building practical, intelligent applications and learning new technologies.
+  <img src="tech-stack.svg" width="600" alt="Tech stack" />
 </p>
 
-<h2 align="center">Projects</h2>
+---
+
+<h2 align="center">📦 Projects</h2>
 
 <div align="center">
 <table>
@@ -33,7 +52,7 @@
       <img src="brain-anim.svg" width="190" alt="Watad brain" />
     </td>
     <td align="center" width="66%">
-      <h3><a href="https://github.com/Llmo2004/Watad">Watad</a></h3>
+      <h3><a href="https://github.com/Llmo2004/Watad">Watad ↗</a></h3>
       <b>AI-Powered Revision System</b><br/>
       An intelligent educational platform designed to help students improve their learning and revision experience through AI-powered solutions.<br/><br/>
       <img src="pills-watad.svg" width="362" alt="Flutter, Dart, Firebase, n8n, Gemini" /><br/><br/>
@@ -46,7 +65,7 @@
       <img src="owl-anim.svg" width="190" alt="Haseela owl" />
     </td>
     <td align="center" width="66%">
-      <h3><a href="https://github.com/Llmo2004/Haseela.App">Haseela</a></h3>
+      <h3><a href="https://github.com/Llmo2004/Haseela.App">Haseela ↗</a></h3>
       <b>Gamified Financial Literacy App</b><br/>
       A gamified mobile application designed to teach children aged 8–14 financial literacy through interactive activities and engaging learning experiences.<br/><br/>
       <img src="pills-haseela.svg" width="299" alt="Flutter, Dart, Firebase, Figma" /><br/><br/>
@@ -57,15 +76,19 @@
 </table>
 </div>
 
-<h2 align="center">Tech Stack</h2>
+---
+
+<h2 align="center">🏅 Certifications</h2>
 
 <p align="center">
-  <img src="tech-stack.svg" width="600" alt="Tech stack" />
+  ■ CAPM® – Certified Associate in Project Management<br/><br/>
+  ■ Microsoft Azure AI Fundamentals (AI-900)
 </p>
 
-<h2 align="center">Certifications</h2>
+---
 
 <p align="center">
-  CAPM® – Certified Associate in Project Management<br/>
-  Microsoft Azure AI Fundamentals (AI-900)
+  ―――― + ★ + ――――
+  <br/>
+  <i>Always learning. Always building. Always improving.</i>
 </p>
